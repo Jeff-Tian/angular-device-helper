@@ -1,0 +1,21 @@
+{
+  "name": "angular-device-helper",
+  "homepage": "https://github.com/Jeff-Tian/angular-device-helper.git",
+  "authors": [
+    "Jeff Tian <jeff.tian@outlook.com>"
+  ],
+  "description": "device helper",
+  "main": "",
+  "keywords": [
+    "angular",
+    "device helper"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,1 @@
+angular.module("angular-auto-focus",[]).directive("focus",["$timeout",function(u){return{scope:{trigger:"@focus"},link:function(t,n){t.$watch("trigger",function(t){"true"===t&&u(function(){n[0].focus()})})}}}]);
